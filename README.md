@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Example for using Arabic routes in NextJS and React. SSR + Arabic URL routes
 
+## Notes how it works
+Check ```next.config.js``` section ```async rewrites() {``` 
+
 First, run the development server:
 
 ```bash
